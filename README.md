@@ -15,7 +15,7 @@ This is the second paragraph.
 
 [Link text](https://example.com)
 
-![Alt text](https://example.com/image.jpg)
+![Alt text](https://github.com/barCohen010496/myFirstProj/blob/main/images/fire.jpg.jpg)
 
   ```
   const name = "Dan";
